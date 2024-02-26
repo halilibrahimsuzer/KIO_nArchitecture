@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "zpZxqGrxnQMW2HvbiOwW5YC8RId9WZvGHdeQmAB1wrOyWIOm5kFw77bsZ+I6ugp+wYKT32w0gStGVRgckI6S4Q==",
+  "success": true,
+  "projectFilePath": "/Users/his/Projects/KodlamaIO/nArchitecture-master/src/corePackages/Core.Mailing/Core.Mailing.csproj",
+  "expectedPackageFiles": [
+    "/Users/his/.nuget/packages/mailkit/3.1.1/mailkit.3.1.1.nupkg.sha512",
+    "/Users/his/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/his/.nuget/packages/microsoft.extensions.configuration.binder/6.0.0/microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "/Users/his/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/his/.nuget/packages/mimekit/3.1.1/mimekit.3.1.1.nupkg.sha512",
+    "/Users/his/.nuget/packages/portable.bouncycastle/1.9.0/portable.bouncycastle.1.9.0.nupkg.sha512",
+    "/Users/his/.nuget/packages/system.formats.asn1/6.0.0/system.formats.asn1.6.0.0.nupkg.sha512",
+    "/Users/his/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/his/.nuget/packages/system.security.cryptography.pkcs/6.0.0/system.security.cryptography.pkcs.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

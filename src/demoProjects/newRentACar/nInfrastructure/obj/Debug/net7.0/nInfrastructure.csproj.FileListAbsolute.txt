@@ -1,0 +1,17 @@
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/newRentACar/nInfrastructure/bin/Debug/net7.0/nInfrastructure.deps.json
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/newRentACar/nInfrastructure/bin/Debug/net7.0/nInfrastructure.dll
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/newRentACar/nInfrastructure/bin/Debug/net7.0/nInfrastructure.pdb
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/newRentACar/nInfrastructure/bin/Debug/net7.0/Core.Persistence.dll
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/newRentACar/nInfrastructure/bin/Debug/net7.0/nDomain.dll
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/newRentACar/nInfrastructure/bin/Debug/net7.0/nDomain.pdb
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/newRentACar/nInfrastructure/bin/Debug/net7.0/Core.Persistence.pdb
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/newRentACar/nInfrastructure/obj/Debug/net7.0/nInfrastructure.csproj.AssemblyReference.cache
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/newRentACar/nInfrastructure/obj/Debug/net7.0/nInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/newRentACar/nInfrastructure/obj/Debug/net7.0/nInfrastructure.AssemblyInfoInputs.cache
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/newRentACar/nInfrastructure/obj/Debug/net7.0/nInfrastructure.AssemblyInfo.cs
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/newRentACar/nInfrastructure/obj/Debug/net7.0/nInfrastructure.csproj.CoreCompileInputs.cache
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/newRentACar/nInfrastructure/obj/Debug/net7.0/nInfrastructure.csproj.CopyComplete
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/newRentACar/nInfrastructure/obj/Debug/net7.0/nInfrastructure.dll
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/newRentACar/nInfrastructure/obj/Debug/net7.0/refint/nInfrastructure.dll
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/newRentACar/nInfrastructure/obj/Debug/net7.0/nInfrastructure.pdb
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/newRentACar/nInfrastructure/obj/Debug/net7.0/ref/nInfrastructure.dll

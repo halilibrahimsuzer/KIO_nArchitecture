@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "WxLPhUF1UyFf9LdSoc7q2tk2alzw4x/DNj8IfLqUgo/sVI7gwRSRCwVbVdNtg8izpQygh/KtBPFIMrUnhSioQg==",
+  "success": true,
+  "projectFilePath": "/Users/his/Projects/KodlamaIO/nArchitecture-master/src/corePackages/Core.ElasticSearch/Core.ElasticSearch.csproj",
+  "expectedPackageFiles": [
+    "/Users/his/.nuget/packages/elasticsearch.net/7.17.0/elasticsearch.net.7.17.0.nupkg.sha512",
+    "/Users/his/.nuget/packages/microsoft.csharp/4.6.0/microsoft.csharp.4.6.0.nupkg.sha512",
+    "/Users/his/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/his/.nuget/packages/microsoft.extensions.configuration.binder/6.0.0/microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "/Users/his/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/his/.nuget/packages/nest/7.17.0/nest.7.17.0.nupkg.sha512",
+    "/Users/his/.nuget/packages/nest.jsonnetserializer/7.17.0/nest.jsonnetserializer.7.17.0.nupkg.sha512",
+    "/Users/his/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512",
+    "/Users/his/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/his/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "/Users/his/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/corePackages/Core.CrossCuttingConcers/bin/Debug/net6.0/Core.CrossCuttingConcerns.deps.json
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/corePackages/Core.CrossCuttingConcers/bin/Debug/net6.0/Core.CrossCuttingConcerns.dll
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/corePackages/Core.CrossCuttingConcers/bin/Debug/net6.0/Core.CrossCuttingConcerns.pdb
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/corePackages/Core.CrossCuttingConcers/obj/Debug/net6.0/Core.CrossCuttingConcerns.csproj.AssemblyReference.cache
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/corePackages/Core.CrossCuttingConcers/obj/Debug/net6.0/Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/corePackages/Core.CrossCuttingConcers/obj/Debug/net6.0/Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/corePackages/Core.CrossCuttingConcers/obj/Debug/net6.0/Core.CrossCuttingConcerns.AssemblyInfo.cs
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/corePackages/Core.CrossCuttingConcers/obj/Debug/net6.0/Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/corePackages/Core.CrossCuttingConcers/obj/Debug/net6.0/Core.CrossCuttingConcerns.dll
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/corePackages/Core.CrossCuttingConcers/obj/Debug/net6.0/refint/Core.CrossCuttingConcerns.dll
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/corePackages/Core.CrossCuttingConcers/obj/Debug/net6.0/Core.CrossCuttingConcerns.pdb
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/corePackages/Core.CrossCuttingConcers/obj/Debug/net6.0/ref/Core.CrossCuttingConcerns.dll

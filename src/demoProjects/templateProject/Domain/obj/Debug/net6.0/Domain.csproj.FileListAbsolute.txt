@@ -1,0 +1,15 @@
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/templateProject/Domain/bin/Debug/net6.0/Domain.deps.json
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/templateProject/Domain/bin/Debug/net6.0/Domain.dll
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/templateProject/Domain/bin/Debug/net6.0/Domain.pdb
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/templateProject/Domain/bin/Debug/net6.0/Core.Persistence.dll
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/templateProject/Domain/bin/Debug/net6.0/Core.Persistence.pdb
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/templateProject/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/templateProject/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/templateProject/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/templateProject/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/templateProject/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/templateProject/Domain/obj/Debug/net6.0/Domain.csproj.CopyComplete
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/templateProject/Domain/obj/Debug/net6.0/Domain.dll
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/templateProject/Domain/obj/Debug/net6.0/refint/Domain.dll
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/templateProject/Domain/obj/Debug/net6.0/Domain.pdb
+/Users/his/Projects/KodlamaIO/nArchitecture-master/src/demoProjects/templateProject/Domain/obj/Debug/net6.0/ref/Domain.dll
